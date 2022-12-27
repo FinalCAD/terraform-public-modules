@@ -5,7 +5,6 @@ repos:
     - id: terraform_fmt
     - id: terraform_validate
     - id: terraform_tflint
-      args: ['--deep']
     - id: terraform_docs
       args:
         - --hook-config=--path-to-file=README.md

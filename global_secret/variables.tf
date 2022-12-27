@@ -15,8 +15,8 @@ variable "finalcad_environment" {
   type        = string
 }
 
-variable "finalcad_region" {
+variable "aws_region_friendly_name" {
   default     = ""
-  description = "FinalCAD region (eu, ie, us or ap)"
+  description = "AWS region friendly name (eg. Frankfurt, Tokyo...)"
   type        = string
 }
