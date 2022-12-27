@@ -44,6 +44,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_secret"></a> [secret](#output\_secret) | All secrets as a map |
 | <a name="output_secret_id"></a> [secret\_id](#output\_secret\_id) | Secret id |
+| <a name="output_secrets"></a> [secrets](#output\_secrets) | All secrets as a map |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
